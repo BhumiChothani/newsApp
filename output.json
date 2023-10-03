@@ -1,0 +1,212 @@
+{
+  "status": "ok",
+  "totalResults": 31,
+  "articles": [
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "AUDREY McAVOY, JENNIFER SINCO KELLEHER, NICK PERRY",
+      "title": "At least 36 people died in wildfires in Hawaii. Follow the latest - The Associated Press",
+      "description": "Wildfires, whipped by strong winds from Hurricane Dora passing far to the south, took the island of Maui by surprise, leaving behind burned-out cars on once busy streets and smoking piles of rubble where historic buildings had stood.",
+      "url": "https://apnews.com/article/hawaii-wildfire-maui-lahaina-f5a7047d407f836f89e90dd7f10faa94",
+      "urlToImage": "https://dims.apnews.com/dims4/default/752266a/2147483647/strip/true/crop/4032x2268+0+378/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F83%2F3e%2F557ef57490f469ed4cf9a8154e9a%2Fd209c3dc32c6419999f9885ad573a48b",
+      "publishedAt": "2023-08-10T16:14:00Z",
+      "content": "WAILUKU, Hawaii (AP) The search of the wildfire wreckage on the Hawaiian island of Maui on Thursday revealed a wasteland of burned out homes and obliterated communities as firefighters battled the st… [+7179 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Candidate in Ecuador's presidential election Fernando Villavicencio shot dead - BBC",
+      "description": "Anti-corruption campaigner Fernando Villavicencio is assassinated after an event in the capital, Quito.",
+      "url": "https://www.bbc.com/news/world-latin-america-66457472",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/07DB/production/_130711020_ecuador-index-reuters.jpg",
+      "publishedAt": "2023-08-10T16:01:10Z",
+      "content": "Media caption, Fernando Villavicencio was shot as he left a rally in Quito\r\nA candidate in Ecuador's forthcoming presidential election who campaigned against corruption and gangs has been shot dead a… [+4890 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Rolling Stone" },
+      "author": "Larisha Paul",
+      "title": "Taylor Swift’s Eras Tour Friendship Bracelets Summoned Karlie Kloss to Los Angeles Show - Rolling Stone",
+      "description": "The model was spotted in the audience at SoFi Stadium at Wednesday night’s show",
+      "url": "https://www.rollingstone.com/music/music-news/karlie-kloss-taylor-swift-eras-tour-los-angeles-1234804350/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2023/08/Karlie-Kloss-taylor-swift.jpg?crop=0px%2C23px%2C1800px%2C1014px&resize=1600%2C900",
+      "publishedAt": "2023-08-10T15:18:35Z",
+      "content": "The friendship bracelets Swifties have been trading at the Eras tour seem to have some kind of magnetic pull. Taylor Swift’s one-time best friend, Karlie Kloss, was spotted in the audience at the fin… [+1856 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Guardian staff reporter",
+      "title": "Owners of ‘LGBT’ Swatch watches could be jailed for three years in Malaysia - The Guardian",
+      "description": "Sellers of timepieces with rainbow colours face same punishment as country says they could ‘harm morals’",
+      "url": "https://www.theguardian.com/world/2023/aug/10/owners-lgbt-swatch-watches-could-jailed-malaysia",
+      "urlToImage": "https://i.guim.co.uk/img/media/5341aaee33737e0d84bf5e10dc6f05954b537148/0_203_7008_4205/master/7008.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ef2ccc9daf75b67625bf5159b71e5ccd",
+      "publishedAt": "2023-08-10T15:18:00Z",
+      "content": "Owners or sellers of rainbow-coloured timepieces made by the Swiss watchmaker Swatch face three years in prison in Malaysia, the interior ministry has said, as the Muslim-majority country rails again… [+1996 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Brianna Abbott, Jon Kamp, Jared S. Hopkins",
+      "title": "‘Eris’ Is Dominant COVID Subvariant in U.S.: What to Know - The Wall Street Journal",
+      "description": "What we know about EG.5, the most common U.S. subvariant",
+      "url": "https://www.wsj.com/articles/eg5-eris-new-covid-19-variant-fa3cc260",
+      "urlToImage": "https://images.wsj.net/im-833284/social",
+      "publishedAt": "2023-08-10T15:16:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Ashley Strickland",
+      "title": "Russia will launch its first lunar lander since 1976 - CNN",
+      "description": "Russia is preparing to launch Luna 25, its first lunar lander in 47 years, to explore resources at the moon’s south pole. The launch is set for 7:10 p.m. ET Thursday.",
+      "url": "https://www.cnn.com/2023/08/10/world/russia-luna-25-launch-scn/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230810093038-russia-luna-25-launch-walkup.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-08-10T14:59:00Z",
+      "content": "Editors Note:Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nRussia is preparing to launch Luna 25, th… [+3653 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Anne Tergesen",
+      "title": "Social Security COLA Expected to Rise in 2024, but Not by a Lot - The Wall Street Journal",
+      "description": "Monthly checks are expected to increase about 3% in 2024, according to analysts",
+      "url": "https://www.wsj.com/articles/social-security-payment-increase-cola-2024-retirement-a3fce38e",
+      "urlToImage": "https://images.wsj.net/im-832097/social",
+      "publishedAt": "2023-08-10T14:25:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Lisa Respers France",
+      "title": "Emmys 2023 have been pushed to January 2024, on Martin Luther King Jr. Day - CNN",
+      "description": "The telecast of the 75th Emmy Awards has been pushed back to air in January, on Martin Luther King, Jr. Day, the Television Academy and Fox announced Thursday.",
+      "url": "https://www.cnn.com/2023/08/10/entertainment/emmy-awards-new-date/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230810092111-emmy-statuette-2022-file.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-08-10T14:13:00Z",
+      "content": "The telecast of the 75th Emmy Awards has been pushed back to air in January, on Martin Luther King, Jr. Day, the Television Academy and Fox announced Thursday.\r\nThe awards show has historically aired… [+785 chars]"
+    },
+    {
+      "source": { "id": "politico", "name": "Politico" },
+      "author": null,
+      "title": "Staggering Ohio loss ignites an identity crisis within the anti-abortion movement - POLITICO",
+      "description": "This soul-searching on the right shows how fractured the anti-abortion movement remains on both tactics and messaging more than a year after they achieved their decades-long goal of toppling Roe v. Wade.",
+      "url": "https://www.politico.com/news/2023/08/10/anti-abortion-movement-defeat-ohio-00110543",
+      "urlToImage": "https://static.politico.com/10/8a/ae099e8b48888f975703acaf31f2/election-2023-constitutional-access-ohio-78294.jpg",
+      "publishedAt": "2023-08-10T14:08:39Z",
+      "content": "Some think that only a total ban is acceptable. But we see, over and over again, that such an uncompromising position doesnt have support. Theres no political appetite for that, he said. \r\nThis soul-… [+6300 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Sports Illustrated" },
+      "author": "Joseph Salvador",
+      "title": "Four to Five ACC Programs Against Stanford, Cal, SMU Expansion Plan, per Report - Sports Illustrated",
+      "description": "Conference leaders reportedly met Wednesday night to discuss adding three programs.",
+      "url": "https://www.si.com/college/2023/08/10/four-to-five-acc-programs-against-stanford-cal-smu-expansion-plan-per-report",
+      "urlToImage": "https://www.si.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MTk5OTgxMzExNjA2MTM4NDk2/acc-logo.jpg",
+      "publishedAt": "2023-08-10T13:50:48Z",
+      "content": "During a meeting Wednesday night, it became clear that programs within the ACC are not on the same page regarding a possible expansion that could include Stanford, Cal and SMU, according to Ross Dell… [+1113 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Tierney Sneed",
+      "title": "ProPublica report offers broadest look yet at Clarence Thomas’ luxury travel bankrolled by wealthy friends reveals private jet and helicopter rides and VIP sporting event tickets - CNN",
+      "description": "The list of gifts and hospitality Justice Clarence Thomas has received from wealthy friends is more extensive than previously known, according to a new ProPublica report.",
+      "url": "https://www.cnn.com/2023/08/10/politics/clarence-thomas-gifts-hospitality-propublica-report/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230406092847-justice-clarence-thomas-221007.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-08-10T12:48:00Z",
+      "content": "The lifestyle Justice Clarence Thomas has enjoyed over the last three decades bankrolled by gifts and hospitality from his wealthy friends is more extensive than previously known, according to a new … [+7385 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Antonia Mortensen, Catherine Nicholls, Sophie Tanno",
+      "title": "Poland plans to move around 10,000 troops to border with Belarus - CNN",
+      "description": "Poland is planning to move around 10,000 troops to its eastern border with Belarus amid mounting concerns over Wagner forces in the region.",
+      "url": "https://www.cnn.com/2023/08/10/europe/poland-troops-belarus-border-intl/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230810111820-01-poland-troops-belarus-border.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-08-10T12:47:00Z",
+      "content": "Poland is planning to move around 10,000 troops to its eastern border with Belarus amid mounting concerns over Wagner forces in the region. \r\nWagner troops have been stationed within Belarus a close … [+1749 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CBS Sports" },
+      "author": "",
+      "title": "One thing to watch in each NFL preseason Week 1 game: All eyes on Bryce Young, Calvin Ridley's Jaguars debut - CBS Sports",
+      "description": "Plenty of rookie quarterbacks are expected to make their debuts this week",
+      "url": "https://www.cbssports.com/nfl/news/one-thing-to-watch-in-each-nfl-preseason-week-1-game-all-eyes-on-bryce-young-calvin-ridleys-jaguars-debut/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/08/10/d7c1296c-9db7-44e9-8df3-3fa786f57793/thumbnail/1200x675/f5b1311e1eea67d39ad9422161557ea8/bryce-young.jpg",
+      "publishedAt": "2023-08-10T12:36:00Z",
+      "content": "Week 1 of the NFL preseason is exciting for fans as they'll be able to see their teams take the field for the first time since the conclusion of last season. With the limited access in training camps… [+12764 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": null,
+      "title": "Trump’s co-defendants set to enter pleas on new charges in classified documents case - CNN",
+      "description": "A Mar-a-Lago property manager and former President Donald Trump’s personal aide are set to be arraigned Thursday morning in Fort Pierce, Florida, on new charges brought by the special counsel in the case regarding the mishandling of classified documents.",
+      "url": "https://www.cnn.com/2023/08/10/politics/trump-deoliveira-nauta-florida-arraignment/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230809160406-de-oliveira-trump-nauta.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-08-10T12:23:00Z",
+      "content": "A Mar-a-Lago property manager and former President Donald Trumps personal aide are set to be arraigned Thursday morning in Fort Pierce, Florida, on new charges brought by the special counsel in the c… [+2657 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Real Deal" },
+      "author": "Ilya Hourie",
+      "title": "WeWork Bankruptcy Would Ripple Across Real Estate Industry - The Real Deal",
+      "description": "In reporting its earnings, or lack thereof, WeWork painted a grave picture of its future. Landlords swallowed hard.",
+      "url": "https://therealdeal.com/national/2023/08/10/wework-bankruptcy-would-ripple-across-real-estate-industry/",
+      "urlToImage": "https://static.therealdeal.com/wp-content/uploads/2023/08/WeWork-Bankruptcy-Would-Ripple-Across-Real-Estate-Industry-f.jpg",
+      "publishedAt": "2023-08-10T12:00:00Z",
+      "content": "WeWork didnt mince words in its earnings report this week, flatly stating what anyone paying attention to its business and the office market could surmise: There is substantial doubt that the company… [+3191 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNET" },
+      "author": null,
+      "title": "iOS 17's Biggest Features: StandBy Mode, Custom Stickers for Messages and More - CNET",
+      "description": "The iPhone software brings some major quality of life improvements to the phone app, FaceTime calls and iMessage chats.",
+      "url": "https://www.cnet.com/tech/services-and-software/ios-17s-biggest-features-standby-mode-custom-stickers-for-messages-and-more/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/8531dd96c4bbfe14be74b17d687dcbf064346fb7/hub/2023/07/19/a6f2479c-3606-4512-a7f4-6354f15fe7c8/ios-17-promo-2.png?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2023-08-10T12:00:00Z",
+      "content": "Apple launched the second public beta verison for iOS 17, the upcoming major software update for the iPhone. With the general release for iOS 17 slated for sometime in September, you can try out an e… [+8445 chars]"
+    },
+    {
+      "source": { "id": "espn", "name": "ESPN" },
+      "author": "ESPN",
+      "title": "Women's World Cup Daily: Quarterfinal preview, predictions - ESPN - ESPN",
+      "description": "The 2023 Women's World Cup is now down to eight teams. What do our writers predict for the quarterfinals? Who will advance?",
+      "url": "https://www.espn.com/soccer/story/_/id/38164369/womens-world-cup-daily-quarterfinal-preview-predictions",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0714%2Fr1197624_1296x729_16%2D9.jpg",
+      "publishedAt": "2023-08-10T12:00:00Z",
+      "content": "Aug 10, 2023, 08:00 AM ET\r\nThe 2023 Women's World Cup is in full swing, and these daily files give you the latest reporting from around the tournament as well as betting lines, what-to-watch-for info… [+21346 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Melissa Repko, Gabrielle Fonrouge",
+      "title": "Coach owner Tapestry to acquire Michael Kors, Jimmy Choo parent Capri Holdings for $8.5 billion - CNBC",
+      "description": "The deal would create an American fashion giant that brings Coach, Kate Spade, Stuart Weitzman, Versace, Jimmy Choo and Michael Kors under one house.",
+      "url": "https://www.cnbc.com/2023/08/10/coach-owner-tapestry-to-acquire-capri-holdings-in-8point5-billion-deal.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/102752916-151975737.jpg?v=1691666702&w=1920&h=1080",
+      "publishedAt": "2023-08-10T11:25:02Z",
+      "content": "Tapestry, the fashion conglomerate behind Coach and Kate Spade, will acquire competitor Capri Holdings in a $8.5 billion deal announced Thursday. \r\nThe transaction will create an American fashion gia… [+3844 chars]"
+    },
+    {
+      "source": { "id": null, "name": "mlive.com" },
+      "author": "Emily Bingham | ebingham@mlive.com",
+      "title": "Where, when to look for up to 90 meteors per hour during Perseid shower this weekend - MLive.com",
+      "description": "The annual summer meteor shower hits its peak over the next few early mornings.",
+      "url": "https://www.mlive.com/news/2023/08/where-when-to-look-for-up-to-90-meteors-per-hour-during-perseid-shower-this-weekend.html",
+      "urlToImage": "https://www.mlive.com/resizer/E5tUkktllWs3SaqPUQRmB18Oqos=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZITQGKQ7ZZHG7NMIG4CKP6VPNA.JPG",
+      "publishedAt": "2023-08-10T11:06:00Z",
+      "content": "Stargazers, cross your fingers for clear skies this weekend: The annual Perseid meteor shower will be at its plentiful peak, creating the best window all summer for witnessing shooting stars. \r\nThe p… [+1918 chars]"
+    },
+    {
+      "source": { "id": "the-jerusalem-post", "name": "The Jerusalem Post" },
+      "author": "By  JUDY SIEGEL-ITZKOVICH",
+      "title": "This common medication may lead to dementia - study - The Jerusalem Post",
+      "description": "Proton-pump inhibitors are prescribed to reduce stomach acid by targeting the enzymes in the stomach lining that produce that acid.",
+      "url": "https://www.jpost.com/health-and-wellness/article-754273",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/547786",
+      "publishedAt": "2023-08-10T10:22:00Z",
+      "content": "People who take acid reflux medications called proton-pump inhibitors for four-and-a-half years or more could have a higher risk of dementia compared to people who do not take these medications, acco… [+3717 chars]"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+
+nav ul .nav-item.active{
+    color: #fff !important;
+    background-color: darkgreen !important;
+}
+    
+
+
+@media (max-width : 768px){
+    #newsItem{
+        width: 100% !important;
+    }
+}
